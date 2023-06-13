@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Artem Danilov></h1>
+<h1 align="center">Hi there, I'm Artem Danilov</h1>
 
 <p align="left">
   <a href="https://skillicons.dev">
