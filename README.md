@@ -2,6 +2,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,sql,html,css,docker,git" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,mysql,html,css,docker,git" />
   </a>
 </p>
