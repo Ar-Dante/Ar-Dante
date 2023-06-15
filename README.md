@@ -9,3 +9,5 @@
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,redis,postgresql,mysql,html,css,docker,git" />
   </a>
 </p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
